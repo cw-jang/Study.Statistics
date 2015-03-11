@@ -1,3 +1,2 @@
-# Notes.Statistics
 
-통계학 공부
+유니코드 테스트
